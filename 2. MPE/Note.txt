@@ -1,0 +1,2 @@
+Results of primary decomposition are saved in the mats, which are further input into MPE module.
+main_MPE.m contains the calculation function and implementation on the decomposed components. 

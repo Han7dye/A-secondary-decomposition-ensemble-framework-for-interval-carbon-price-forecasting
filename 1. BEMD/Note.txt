@@ -1,2 +1,0 @@
-The carbon price interval data is transformed into txt for BEMD. 
-bemd.m is the function document and main_bemd.m is the execution on out data.

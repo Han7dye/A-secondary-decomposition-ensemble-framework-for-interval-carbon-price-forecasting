@@ -1,4 +1,0 @@
-The txt documentations are datasets as input into the main forecasting function. 
-Take HBEA as example, hb.txt is the original interval data, hbl.txt and hbu.txt are primarily decomposed IMFs, hb2l.txt and hb2u.txt are IMFs after secondary decomposition. 
-main_SSA_iMLP.m and main_iMLP.m are main forecasting precedures. 
-The others are auxiliary functions that would be called while running the main m documents. 

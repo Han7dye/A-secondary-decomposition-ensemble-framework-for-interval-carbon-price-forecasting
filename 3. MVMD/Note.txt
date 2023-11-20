@@ -1,0 +1,3 @@
+The primarily decomposed IMF with highest unpredictability is saved in the txts.
+MVMD_new.m is the function document of MVMD algorithm.
+main_MVMD.m is the main function to perform MVMD on the most complex components.   

@@ -1,0 +1,2 @@
+The data is collected from the official website of Guangzhou and Hubei Emission Exchange. 
+The high and low prices are extracted.
